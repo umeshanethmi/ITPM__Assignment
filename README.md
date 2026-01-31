@@ -122,8 +122,8 @@ To assess how accurately the SwiftTranslator system converts Singlish input into
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/umeshanethmi/IT23861718.git
-   cd IT23861718
+   git clone https://github.com/umeshanethmi/ITPM__Assignment.git
+   cd ITPM__Assignment
    ```
 
 2. **Install dependencies:**
@@ -246,4 +246,4 @@ Each test case includes the following metadata for filling the Excel template:
 
 ## Repository Link
 
-🔗 **GitHub:** https://github.com/umeshanethmi/IT23861718
+🔗 **GitHub:** https://github.com/umeshanethmi/ITPM__Assignment
