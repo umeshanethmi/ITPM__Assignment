@@ -1,0 +1,20 @@
+{
+  "name": "it23861718-itpm-assignment-1",
+  "version": "1.0.0",
+  "description": "IT3040 ITPM Assignment 1 - SwiftTranslator Automated Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:report": "npx playwright show-report"
+  },
+  "keywords": ["playwright", "testing", "singlish", "sinhala"],
+  "author": "IT23861718",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}
